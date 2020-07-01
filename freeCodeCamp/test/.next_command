@@ -290,3 +290,4 @@ find
 rm --help
 find
 rm -r fonts
+ls --color=auto
