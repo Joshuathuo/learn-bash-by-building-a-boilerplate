@@ -81,3 +81,5 @@ clear
 ls --color=auto
 cd node_modules
 ls --color=auto
+-l flag
+ls --color=auto -l
