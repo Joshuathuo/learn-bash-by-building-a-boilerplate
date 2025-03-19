@@ -404,3 +404,15 @@ cat ~/.ssh/id_rsa.pub
 ssh -T git@github.com
 git remote set-url origin git@github.com:freeCodeCamp/learn-bash-by-building-a-boilerplate.git
 git add .
+git commit -m "My progress"
+git push origin main
+git remote add origin https://github.com/Joshuathuo/website-boilerplate.git
+git branch -M main
+git push -u origin main
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/Joshuathuo/website-boilerplate.git
+git branch -M main
+git push -u origin main
+git remote set-url origin git@github.com:Joshuathuo/learn-bash-by-building-a-boilerplate.git
+git add .
