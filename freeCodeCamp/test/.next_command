@@ -223,3 +223,5 @@ find -name src
 find
 cd client
 mkdir assets
+ls --color=auto
+cd assets
