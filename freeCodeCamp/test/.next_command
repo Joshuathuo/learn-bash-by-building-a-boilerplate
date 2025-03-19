@@ -84,3 +84,4 @@ ls --color=auto
 -l flag
 ls --color=auto -l
 cd has
+ls --color=auto
