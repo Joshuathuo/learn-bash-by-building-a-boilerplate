@@ -93,3 +93,4 @@ clear
 ls --color=auto
 cd src test
 cd src
+pwd
